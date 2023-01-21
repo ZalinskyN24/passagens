@@ -1,0 +1,84 @@
+{margin: 0; padding: 0;}
+
+p {
+ 	color: red;
+	width: 500px;
+	border: 1px solid black;
+
+}
+body{
+	background: #f4f4f4 !important;
+	background-image: url(donizete.png);
+}
+
+
+
+.btn hover{
+	border-width: 10px;
+	border-height: 15px; 
+	border-style: 10px;  
+	border-color: #9400D3;
+	padding: 1px 2px;
+	-moz-box-shadow:0 3px 10px 0 #CCC;
+	-webkit-box-shadow:0 8px 10px 0 #ccc;
+	text-shadow:0px 0px 5px #696969;
+}
+button {
+	//**color: white;**//
+	font-size: 12px;
+	width: 150px;
+	margin-top: 10px;
+	center:50px;
+	border-radius: 10px;
+	float-size: 0px;
+	background-color: #483D8B;
+	color: #FF8C00;
+	-webkit-box-shadow: 0 25px 15px 0 #ccc;//**sombra**//
+	text-shadow: 0px 0px 15px #696969; //**sombra**//
+	
+}
+
+
+
+h3{
+	width: 500px;
+	center: 150px;	
+	color: red;
+} 
+h4{
+	width: 500px;
+	center: 150px;	
+	color: red;
+} 
+h2{
+	width: 500px;
+	center: 150px;	
+	color: green;
+} 
+//*#btnconectabat{
+	width: 50px;
+	center: 50px;	
+	color: blue;
+
+}
+
+
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: flex;
+    max-width: 20%;
+    height: unset;
+    top:-1%;
+    left: 48%;	
+}
+
+
+
+  }*//
+//*div{
+            width: 10px;
+            height: 10px;
+        }
+        #alinhamentos{
+            background-color: blue;
+	     	
+        }*//
